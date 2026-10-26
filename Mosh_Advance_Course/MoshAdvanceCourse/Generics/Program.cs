@@ -17,7 +17,7 @@
             var productDisplayer3 = new ProductCatalog<Tablets>();
             productDisplayer3.AddProduct(tablets);
 
-            var product = productDisplayer.GetProduct(0);
+            var product = productDisplayer.GetProduct(2);
 
             Console.WriteLine(product.Brand);
 
