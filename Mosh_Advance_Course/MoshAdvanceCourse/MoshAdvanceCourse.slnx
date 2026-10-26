@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="Generics/Generics.csproj" />
+  <Project Path="Delegates/Delegates.csproj" />
+  <Project Path="LambdaExpressions/LambdaExpressions.csproj" />
+  <Project Path="Events/Events.csproj" />
+  <Project Path="ExtensionMethods/ExtensionMethods.csproj" />
+  <Project Path="Linq/Linq.csproj" />
+  <Project Path="NullableTypes/NullableTypes.csproj" />
+  <Project Path="Dynamic/Dynamic.csproj" />
+  <Project Path="ExceptionHandling/ExceptionHandling.csproj" />
+  <Project Path="AsyncAwait/AsyncAwait.csproj" />
+</Solution>
