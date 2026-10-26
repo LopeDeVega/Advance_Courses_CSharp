@@ -5,13 +5,12 @@ using System.Text;
 
 namespace Generics
 {
-    public class Tablets
+    public class Tablets : Product
     {
-        public string Brand { get; set; }
-
         public Tablets(string brand)
+            :base(brand)
         {
-            this.Brand = brand;
+           
         }
     }
 }

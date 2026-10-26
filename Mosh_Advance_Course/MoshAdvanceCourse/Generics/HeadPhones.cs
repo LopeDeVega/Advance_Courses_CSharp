@@ -4,13 +4,11 @@ using System.Text;
 
 namespace Generics
 {
-    public class HeadPhones
+    public class HeadPhones : Product
     {
-        public string Brand { get; set; }
-
         public HeadPhones(string brand)
+            :base(brand)
         {
-            Brand = brand;
         }
     }
 }
